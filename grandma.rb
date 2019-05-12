@@ -1,4 +1,4 @@
-require "grandma_spec.rb"
+require_relative "grandma_spec.rb"
 # Write a speak_to_grandma method.
 def speak_to_grandma(str)
   if string == string.upcase
